@@ -1,5 +1,12 @@
 # Changelog
 
+## [10.2.0](https://github.com/ubuntu/yaru.dart/compare/v10.1.0...v10.2.0) (2026-05-08)
+
+
+### Features
+
+* accept fontFamily parameter in createYaruTheme ([#1075](https://github.com/ubuntu/yaru.dart/issues/1075)) ([72d662d](https://github.com/ubuntu/yaru.dart/commit/72d662d6e04fe0c1e824aa8cd2417f3be32209b2))
+
 ## [10.1.0](https://github.com/ubuntu/yaru.dart/compare/v10.0.0...v10.1.0) (2026-04-03)
 
 
